@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Implementation-Title: ZipkinServer
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ko
+Specification-Vendor: Pivotal Software, Inc.
+Specification-Title: ZipkinServer
+Implementation-Vendor-Id: SleuthZipkin
+Class-Path: lib/spring-boot-starter-1.5.4.RELEASE.jar lib/spring-boot-
+ 1.5.4.RELEASE.jar lib/spring-context-4.3.9.RELEASE.jar lib/spring-boo
+ t-autoconfigure-1.5.4.RELEASE.jar lib/spring-boot-starter-logging-1.5
+ .4.RELEASE.jar lib/logback-classic-1.1.11.jar lib/logback-core-1.1.11
+ .jar lib/jcl-over-slf4j-1.7.25.jar lib/jul-to-slf4j-1.7.25.jar lib/lo
+ g4j-over-slf4j-1.7.25.jar lib/spring-core-4.3.9.RELEASE.jar lib/snake
+ yaml-1.17.jar lib/spring-boot-starter-web-1.5.4.RELEASE.jar lib/sprin
+ g-boot-starter-tomcat-1.5.4.RELEASE.jar lib/tomcat-embed-core-8.5.15.
+ jar lib/tomcat-embed-el-8.5.15.jar lib/tomcat-embed-websocket-8.5.15.
+ jar lib/hibernate-validator-5.3.5.Final.jar lib/validation-api-1.1.0.
+ Final.jar lib/jboss-logging-3.3.1.Final.jar lib/classmate-1.3.3.jar l
+ ib/jackson-databind-2.8.8.jar lib/jackson-annotations-2.8.0.jar lib/j
+ ackson-core-2.8.8.jar lib/spring-web-4.3.9.RELEASE.jar lib/spring-aop
+ -4.3.9.RELEASE.jar lib/spring-beans-4.3.9.RELEASE.jar lib/spring-webm
+ vc-4.3.9.RELEASE.jar lib/spring-expression-4.3.9.RELEASE.jar lib/slf4
+ j-api-1.7.25.jar lib/zipkin-server-1.23.1.jar lib/spring-boot-starter
+ -actuator-1.5.4.RELEASE.jar lib/spring-boot-actuator-1.5.4.RELEASE.ja
+ r lib/zipkin-1.23.1.jar lib/zipkin-autoconfigure-ui-1.23.1.jar lib/zi
+ pkin-ui-1.23.1.jar
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.sleuthzipkin.BootApplication
+Caller-Allowable-Codebase: 
+Permissions: 
+Build-Jdk: 1.8.0_101
+Specification-Version: 0.0.1-SNAPSHOT
+Implementation-URL: http://projects.spring.io/spring-boot/SleuthZipkin
+ /ZipkinServer/
+Created-By: Maven Integration for Eclipse
+
